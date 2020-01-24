@@ -1,0 +1,9 @@
+[submodule "hd-wallet-derive"]
+	path = hd-wallet-derive
+	url = https://github.com/dan-da/hd-wallet-derive.git
+[submodule "wallet/wallet/hd-wallet-derive"]
+	path = wallet/wallet/hd-wallet-derive
+	url = https://github.com/dan-da/hd-wallet-derive.git
+[submodule "wallet/hd-wallet-derive"]
+	path = wallet/hd-wallet-derive
+	url = https://github.com/dan-da/hd-wallet-derive.git
